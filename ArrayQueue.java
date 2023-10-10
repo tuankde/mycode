@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Acer
+ * @author TuanKhieuAnh
  */
 public class ArrayQueue {
 
