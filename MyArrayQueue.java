@@ -7,7 +7,7 @@ package arrayqueue;
 
 /**
  *
- * @author Acer
+ * @author TuanKhieuAnh
  */
 public class MyArrayQueue {
 
